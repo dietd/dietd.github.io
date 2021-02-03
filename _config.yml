@@ -1,6 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Diether's Personal Website"
+author: "Diether Delosreyes"
+description: " <h1>Diether Delosreyes</h1> <br/> > Berkeley EECS Student <br/> > Researcher <br/> > Engineer <br/>" 
+
+#"Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,21 +10,21 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_social: true          # show site description and social links in the footer
+show_social: false          # show site description and social links in the footer
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 
 # Menu
 
 navigation:
-  - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
+  - {file: "index.md", icon: home}
+  - {file: "projects.html", icon: project-diagram}
+  - {file: "mail.md", icon: envelope}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Github, icon: github, url: "https://github.com/dietd"}
+#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
