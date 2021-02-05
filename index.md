@@ -13,7 +13,7 @@ Here you can find a list of projects, places I've volunteered/worked, and how to
 # Summary of Major Academic Projects
 
 ### Upper Division
-* CS162 PintOS
+* [CS162 PintOS](/CS162-Project)
 * EECS151 RISCV Processor
 * EE140 Operational Amplifier
 * EE105 Multistage Amplifier
