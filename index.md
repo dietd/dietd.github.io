@@ -15,9 +15,9 @@ Here you can find a list of projects, places I've volunteered/worked, and how to
 ### Upper Division
 * [CS162 PintOS](/CS162-Project)
 * [EECS151 RISCV Processor](/EECS151-Project)
-* [EE140 Operational Amplifier](EE140-Project)
+* [EE140 Operational Amplifier](/EE140-Project)
 * EE105 Multistage Amplifier
-* EE120 Labs (Heart Monitor)
+* [EE120 Labs (Heart Monitor)](/EE120-Project)
 * CS161 Stack Smashing Project
 * CS170 Graph Project
 
