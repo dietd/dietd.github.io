@@ -5,8 +5,11 @@ layout: page
 
 ## About Me
 
-Hi, my name is Diether and I am a student at Berkeley studying computer science.\
-I mainly focus on computer systems and design. I also have extensive background in electrical engineering fields, especially circuits design.
+<img src="../assets/website-pic.png" width="250"/>
+
+Hi, my name is Diether and I am a student at Berkeley studying computer science.
+
+I mainly focus on computer systems and design, however I also have interests in hardware/embedded engineering and computer architecture.
 
 Here you can find a list of projects, places I've volunteered/worked, and how to get my resume.
 
