@@ -1,6 +1,6 @@
-title: "Diether's Personal Website"
+title: "Diether Delosreyes"
 author: "Diether Delosreyes"
-description: " <h1>Diether Delosreyes</h1> > Berkeley EECS student <br/> > Researcher <br/> > Engineer <br/>" 
+description: "" 
 
 #"Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -11,16 +11,15 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_social: false          # show site description and social links in the footer
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_excerpts: false        # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
 
 # Menu
 
 navigation:
-  - {file: "index.md", icon: home}
+  - {title: "Home", file: "index.md", icon: home}
   - {file: "projects.html", icon: project-diagram}
-  - {file: "mail.md", icon: envelope}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/dietd"}

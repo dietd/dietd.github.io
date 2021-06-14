@@ -1,70 +1,39 @@
 ---
-title: "Home"
+title: "Hello, I'm Diether :)"
 layout: page
 ---
 
-## About Me
+I am a software engineer and researcher with 3 years worth of experience in computer systems
+and electrical design. I am currently pursuing a degree in computer science from Berkeley.
 
-<img src="../assets/website-pic.png" width="250"/>
+Here you can find a list of projects, places I've volunteered at, and my resume. 
 
-Hi, my name is Diether and I am a student at Berkeley studying computer science.
-
-I mainly focus on computer systems and design, however I also have interests in hardware/embedded engineering and computer architecture.
-
-Here you can find a list of projects, places I've volunteered/worked, and how to get my resume.
+# Coursework
+* Hardware: Signals and Systems, Microelectronic Circuits, Semiconductor Devices, Analog Circuit Design, Digital Circuit Design (ASIC/FPGA)
+* Software: Data Structures and Algorithms, Networking, Security, Databases, Operating Systems
 
 # Summary of Major Academic Projects
 
-### Upper Division
-* [CS162 PintOS](/CS162-Project)
+### Software
+* [CS162 PintOS: Operating System](/CS162-Project)
+* [CS161 Crypto Database](/CS161-Project)
+* CS186 Java Database
+* CS152 Computer Architecture Projects
+* CS170 Graph Project
+* [CS61C RISCV Processor (Logisim)](https://cs61c.org/fa20/projects/proj3/)
+* [CS61B BearMaps](https://sp19.datastructur.es/materials/proj/proj2c/proj2c)
+* [CS61A Scheme/LISP Interpreter](https://inst.eecs.berkeley.edu/~cs61a/fa18/proj/scheme/)
+
+### Hardware
 * [EECS151 RISCV Processor](/EECS151-Project)
 * [EE140 Operational Amplifier](/EE140-Project)
 * EE105 Multistage Amplifier
 * [EE120 Labs (Heart Monitor)](/EE120-Project)
-* CS161 Stack Smashing Project
-* CS170 Graph Project
-
-### Lower Division
-* CS61C RISCV Processor (Logisim)
-* CS61B BearMaps
-* CS61A Scheme/LISP Interpreter
-
-### Future Projects
-* EE123 Labs
-* CS152 Labs
-* CS161 Cryptography Project
 
 # Work / Volunteering
+
 ### URAP: Berkeley Space Science Labs
 * Neutron Detector Applet
 
-&nbsp;
-&nbsp;
-
-# Schedule of Classes
-
-Here are the classes I have taken / am planning to take:
-
-### Junior / Senior:
-
-| FA 2020          | SP 2021          | FA 2021         | SP 2022         |
-|------------------|------------------|-----------------|-----------------|
-| EECS151: Digital Design | EE123: Digital Signal Processing|    |     |
-| EECS151LA: ASIC Lab | CS161: Computer Security |    |    |
-| EE140: Analog Design |  CS152: Computer Architecture |    |    |
-
-### Freshman / Sophmore:
- 
-| FA 2018          | SP 2019          | FA 2019         | SP 2020         |
-|------------------|------------------|-----------------|-----------------|
-| CS61A: Intro to CS | CS61B: Data Structures     | CS61C: Computer Architecture | CS162: Operating Systems    |
-| Math 54: Linear Algebra  | EE16B: Designing Devices and Systems      | CS70: Discrete Math / Probability   | CS170: Algorithms     |
-| EE16A: Designing Devices and Systems (self study) | Math 53: Multivariable Calculus     | EE120: Signals and Systems  | EE105: Microelectronic Circuits   |
-| | |  | EE130: Microelectronic  Devices |
-
-
-
-## Teaching
-I am focusing on being a good student as of now, however I can tutor or just talk about classes in general.
-I can tutor anybody in any lower div EECS class.
-
+### URAP: LBNL
+* Signal Processing for Power Circuit
