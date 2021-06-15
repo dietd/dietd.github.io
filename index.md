@@ -3,10 +3,10 @@ title: "Hello, I'm Diether :)"
 layout: page
 ---
 
-I am a software engineer and researcher with 3 years worth of experience in computer systems
+I am a software engineer and a researcher with 3 years of experience in computer systems
 and electrical design. I am currently pursuing a degree in computer science from Berkeley.
 
-Here you can find a list of projects, places I've volunteered at, and my resume. 
+Here you can find a list of projects, the places I've volunteered at, and my resume. 
 
 # Coursework
 * Hardware: Signals and Systems, Microelectronic Circuits, Semiconductor Devices, Analog Circuit Design, Digital Circuit Design (ASIC/FPGA)
