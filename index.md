@@ -37,3 +37,6 @@ Here you can find a list of projects, places I've volunteered at, and my resume.
 
 ### URAP: LBNL
 * Signal Processing for Power Circuit
+
+
+# [Resume](https://docs.google.com/document/d/15Xwg7W-pR4ccnWprzcmJ8PCm-2y2U8v9DIhIBDaJnfQ/edit?usp=sharing)
