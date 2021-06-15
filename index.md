@@ -15,13 +15,13 @@ Here you can find a list of projects, places I've volunteered at, and my resume.
 # Summary of Major Academic Projects
 
 ### Software
-* [CS162 PintOS: Operating System](/CS162-Project)
-* [CS161 Crypto Database](/CS161-Project)
+* [CS162 PintOS: Operating System](/CS162-Project) [[github](https://github.com/dietd/cs162-pintos)] [[web version](https://github.com/dietd/webpintos)]
+* [CS161 Crypto Database](/CS161-Project) [[github](https://github.com/dietd/cs161project2v2)]
 * CS186 Java Database
 * CS152 Computer Architecture Projects
 * CS170 Graph Project
-* [CS61C RISCV Processor (Logisim)](https://cs61c.org/fa20/projects/proj3/)
-* [CS61B BearMaps](https://sp19.datastructur.es/materials/proj/proj2c/proj2c)
+* [CS61C RISCV Processor (Logisim)](https://cs61c.org/fa20/projects/proj3/) [[github](https://github.com/dietd/cs61c-riscv-cpu)] 
+* [CS61B BearMaps](https://sp19.datastructur.es/materials/proj/proj2c/proj2c) [[github](https://github.com/dietd/cs61b/tree/master/proj2c/bearmaps)]
 * [CS61A Scheme/LISP Interpreter](https://inst.eecs.berkeley.edu/~cs61a/fa18/proj/scheme/)
 
 ### Hardware
