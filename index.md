@@ -21,7 +21,7 @@ Here you can find a list of projects, places I've volunteered at, and my resume.
 * CS152 Computer Architecture Projects
 * CS170 Graph Project
 * [CS61C RISCV Processor (Logisim)](https://cs61c.org/fa20/projects/proj3/) [[github](https://github.com/dietd/cs61c-riscv-cpu)] 
-* [CS61B BearMaps](https://sp19.datastructur.es/materials/proj/proj2c/proj2c) [[github](https://github.com/dietd/cs61b/tree/master/proj2c/bearmaps)]
+* [CS61B BearMaps](https://sp19.datastructur.es/materials/proj/proj2c/proj2c) [[github](https://github.com/dietd/cs61b/tree/master/proj2c/bearmaps)] [[web version](http://bearmaps3.herokuapp.com/map.html)]
 * [CS61A Scheme/LISP Interpreter](https://inst.eecs.berkeley.edu/~cs61a/fa18/proj/scheme/)
 
 ### Hardware
